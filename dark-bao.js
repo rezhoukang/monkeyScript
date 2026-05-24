@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  邪恶暗黑小豆包来袭，深色主题美化
 // @author       rezhoukang
+// @icon         https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/doubao_avatar.png
 // @match        *://www.doubao.com/*
 // @run-at       document-start
 // ==/UserScript==
